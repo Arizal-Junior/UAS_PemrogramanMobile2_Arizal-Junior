@@ -60,8 +60,8 @@ Aplikasi ini memiliki lebih dari **7 Halaman** interaktif dengan fitur-fitur ber
 
 ### 6. 📱 Deployment Multi-Platform
 * Aplikasi dirancang responsif dan siap dijalankan pada:
-  - **Android** (via APK/Emulator)
-  - **Web / PWA** (Opsional)
+  - **Android**
+  - **Web / PWA** 
 
 ---
 
