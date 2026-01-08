@@ -66,4 +66,4 @@ Aplikasi ini memiliki lebih dari **7 Halaman** interaktif dengan fitur-fitur ber
 ---
 
 ### Catatan
-Untuk MockAPI bisa jadi kedepannya saya ganti menggunakan Firebase
+Untuk MockAPI bisa saja kedepannya saya ganti menggunakan Firebase
