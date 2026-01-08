@@ -14,7 +14,7 @@ Aplikasi ini dibuat untuk memenuhi tugas **Mata Kuliah Pemrograman Mobile**, den
 ## 👨‍💻 Pengembang
 
 Dibuat oleh
-* **NAMA:** Arizal Junior
+* **Nama:** Arizal Junior
 * **NIM:** 23552011310
 * **Kelas:** 23 CNS B
 * **Mata Kuliah:** Pemrograman Mobile II
