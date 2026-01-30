@@ -37,9 +37,9 @@ Berikut adalah tautan untuk mengakses aplikasi dan melihat demonstrasi penggunaa
 | Atribut | Keterangan |
 | :--- | :--- |
 | **Nama** | Arizal Junior |
-| **Project** | UAS Pemrograman Mobile |
+| **Kelas** | 23 CNS B |
+| **Project** | UAS Pemrograman Mobile II |
 | **Studi** | Teknik Informatika |
-| **Tahun** | 2026 |
 
 ---
 
