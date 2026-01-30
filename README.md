@@ -11,7 +11,7 @@
 
 <br>
 
-**Planno** adalah aplikasi manajemen jadwal lintas platform (Mobile & Web) yang dirancang untuk membantu produktivitas harian. Aplikasi ini memungkinkan pengguna mencatat, mengatur, dan memantau agenda harian dengan antarmuka yang modern, responsif, dan terintegrasi dengan layanan cloud.
+**Planno (Plan Now)** adalah aplikasi manajemen jadwal lintas platform (Mobile & Web) yang dirancang untuk membantu produktivitas harian. Aplikasi ini memungkinkan pengguna mencatat, mengatur, dan memantau agenda harian dengan antarmuka yang modern, responsif, dan terintegrasi dengan layanan cloud.
 
 </div>
 
