@@ -95,7 +95,7 @@ Berikut adalah tampilan antarmuka aplikasi Planno:
 | <img src="https://github.com/user-attachments/assets/70a474f5-3c04-49ef-aaba-eb0a43525e20" width="200" /> | <img src="https://github.com/user-attachments/assets/e3e41f50-fee6-4c80-8da3-1dcb5dbd83ef" width="200" /> | <img src="https://github.com/user-attachments/assets/d63ba1cc-88bd-430c-8fb6-8a8386d44115" width="200" /> | <img src="https://github.com/user-attachments/assets/f72918e1-70e0-44a2-8cc8-3121fd00a8bd" width="200" /> | <img src="https://github.com/user-attachments/assets/1d8f7208-97ec-4601-8561-5837347ff791" width="200" /> |
 
 ### 3. Kalender
-| Tampilan Kalender | Detail Kalender |
+| Kalender View 1 | Kalender View 2 |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/aafe9f66-7c19-49d3-928a-8c18c065dc5b" width="200" /> | <img src="https://github.com/user-attachments/assets/cef5e542-7dde-43d7-88a3-07abc454dfd3" width="200" />
 
@@ -105,7 +105,7 @@ Berikut adalah tampilan antarmuka aplikasi Planno:
 | <img src="https://github.com/user-attachments/assets/982cc7e7-986a-4692-985c-2334983bd1a0" width="200" /> | <img src="https://github.com/user-attachments/assets/f1312d7d-36bc-4778-afd6-9f3efac6516f" width="180" /> |
 
 ### 5. Pengaturan
-| Menu Pengaturan | Theme Setting |
+| Menu Pengaturan | Tentang Aplikasi |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/14cfb65f-fc5d-4a48-9332-6a9674a171bb" width="180" /> | <img src="https://github.com/user-attachments/assets/c0bdf48f-3265-4491-a951-720610c8e7a6" width="180" /> |
 
