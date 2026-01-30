@@ -60,22 +60,51 @@ Aplikasi ini dilengkapi dengan berbagai fitur modern:
 
 ---
 
-## 🔗 Tautan Aplikasi
+## Catatan
+Source code ini lengkap dan dapat di-build. Namun, fitur Google Sign-In dibatasi (restricted) hanya untuk SHA-1 environment pengembangan saya dan domain web produksi demi keamanan.
+
+---
+
+## 🔗 Deploy Aplikasi
 
 Aplikasi versi Web dapat diakses secara langsung melalui tautan berikut:
 
-👉 **[Buka Planno Web App](https://planno-jun.netlify.app/)**
+Deploy Web: https://planno-jun.netlify.app/
+Deploy Mobile: https://drive.google.com/drive/folders/1_84EMmVY77iD_gnxX4Y3i_Ehkb0iXTH1?usp=drive_link
+
+---
+
+## Video Demo Aplikasi
+Link Gdrive Video Demo: https://drive.google.com/drive/folders/1WpwxNCZBVw-vpykvi3d1MT9fg7aY-et1?usp=drive_link
 
 ---
 
 ## 📸 Galeri Aplikasi
+Halaman Splash Screen:
+![Planno (1)](https://github.com/user-attachments/assets/ee575332-bc83-4a2b-a286-d9d3cf2bb8fd)
 
-| Halaman Login | Dashboard Home | Tampilan Kalender |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/login.png" width="200" alt="Login Page" /> | <img src="assets/screenshots/home.png" width="200" alt="Home Page" /> | <img src="assets/screenshots/calendar.png" width="200" alt="Calendar Page" /> |
+Halaman Login dan Register:
+![Planno (2)](https://github.com/user-attachments/assets/73210b5d-876d-45f0-b6d7-b35451aa6683)
+![Planno (3)](https://github.com/user-attachments/assets/750f0101-2ae1-4121-8028-ef576ee28af7)
 
----
+Halaman Home:
+![Planno (4)](https://github.com/user-attachments/assets/70a474f5-3c04-49ef-aaba-eb0a43525e20)
+![Planno (5)](https://github.com/user-attachments/assets/e3e41f50-fee6-4c80-8da3-1dcb5dbd83ef)
+![Planno (6)](https://github.com/user-attachments/assets/d63ba1cc-88bd-430c-8fb6-8a8386d44115)
+![Planno (7)](https://github.com/user-attachments/assets/f72918e1-70e0-44a2-8cc8-3121fd00a8bd)
+![Planno (8)](https://github.com/user-attachments/assets/1d8f7208-97ec-4601-8561-5837347ff791)
 
-## ⚙️ Cara Instalasi (Local)
+Halaman Calendar:
+![Planno (9)](https://github.com/user-attachments/assets/aafe9f66-7c19-49d3-928a-8c18c065dc5b)
+![Planno (10)](https://github.com/user-attachments/assets/cef5e542-7dde-43d7-88a3-07abc454dfd3)
 
-Jika ingin menjalankan project ini di komputer lokal:
+Halaman List:
+![Planno (11)](https://github.com/user-attachments/assets/982cc7e7-986a-4692-985c-2334983bd1a0)
+![Planno (12)](https://github.com/user-attachments/assets/f1312d7d-36bc-4778-afd6-9f3efac6516f)
+
+Halaman Setting:
+![Planno (13)](https://github.com/user-attachments/assets/14cfb65f-fc5d-4a48-9332-6a9674a171bb)
+![Planno (14)](https://github.com/user-attachments/assets/c0bdf48f-3265-4491-a951-720610c8e7a6)
+
+Halaman Profile:
+![Planno (15)](https://github.com/user-attachments/assets/415031c6-e923-4156-87d6-1347f78e94da)
