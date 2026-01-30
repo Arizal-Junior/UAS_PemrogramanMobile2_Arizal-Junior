@@ -75,7 +75,6 @@ Aplikasi ini dilengkapi dengan berbagai fitur modern untuk menunjang produktivit
     * `firebase_auth`, `google_sign_in` (Auth)
     * `http` (Koneksi ke MockAPI)
     * `table_calendar` (Kalender)
-    * `shared_preferences` (Local Settings)
 
 ---
 
