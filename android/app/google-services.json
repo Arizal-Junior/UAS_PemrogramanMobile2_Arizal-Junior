@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "434685854792",
+    "project_id": "planno-b2cfc",
+    "storage_bucket": "planno-b2cfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434685854792:android:7ecb75e8a6b10d408c047d",
+        "android_client_info": {
+          "package_name": "com.example.uas_planno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434685854792-orts7f8tb07abg7a47fuss47lbe5u37a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas_planno",
+            "certificate_hash": "8f339daf7057dc4edd199c05927de241b5500871"
+          }
+        },
+        {
+          "client_id": "434685854792-8ojb1gmqm6knfmtrjfo32gj4s1un9rov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiazrCsoeW85_hbojzQmNRdGhnlQURVXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434685854792-8ojb1gmqm6knfmtrjfo32gj4s1un9rov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
