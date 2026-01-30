@@ -61,7 +61,6 @@ Aplikasi ini dilengkapi dengan berbagai fitur modern untuk menunjang produktivit
 ### 🎨 Antarmuka & UX
 * **Adaptive Theme:** Mendukung **Dark Mode** dan Light Mode mengikuti preferensi sistem/pengguna.
 * **Responsive Design:** Tampilan optimal baik di Layar HP (Android) maupun Web Browser.
-* **Auto-Refresh Logic:** Pembaruan tampilan otomatis saat data berubah tanpa perlu reload manual.
 
 ---
 
